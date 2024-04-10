@@ -1,0 +1,41 @@
+body {
+    background-color: black;
+  }
+  
+  .container {
+    max-width: 600px;
+    margin: 0 auto;
+    text-align: center;
+    padding: 20px;
+    background-color: white; /* Set container background to white */
+  }
+  
+  input[type="text"] {
+    width: 60%;
+    padding: 10px;
+    margin-bottom: 10px;
+  }
+  
+  button {
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #0056b3;
+  }
+  
+  .movieDetailsContainer {
+    border: 2px solid black;
+    padding: 20px;
+    margin-top: 20px;
+    background-color: white;
+  }
+  
+  #movieDetails img {
+    max-width: 100%;
+  }
+  
